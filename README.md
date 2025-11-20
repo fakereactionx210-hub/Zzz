@@ -1,8 +1,11 @@
-# 🐐 Goat Bot V2 update  by Azad 💥
+<!-- Animated Title -->
+<h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nezuko%20Bot%20V2&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Goat+Bot+V2!;🤖+Messenger+Bot+by+Azad;💫+Powered+by+Nezuko+Chat+Bot;🎯+Modular+%26+Modern+Design" alt="Typing SVG" style="box-shadow: 0 0 25px rgba(255,255,255,0.4); border-radius: 14px;" />
-</p>
+# 🐐 Goat Bot V2 update  by Azad 💥
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="center">
   <img src="https://files.catbox.moe/i9etjw.gif" width="400" alt="Nezuko GIF" style="border-radius: 14px; box-shadow: 0 0 30px rgba(255,255,255,0.45);" />
@@ -12,206 +15,235 @@
   <img src="https://komarev.com/ghpvc/?username=syndicate-goat-bot-azad&color=blueviolet&style=flat-square" alt="Profile Views" style="box-shadow: 0 0 18px rgba(255,255,255,0.35); border-radius: 10px;" />
 </p>
 
-<p align="center">
-  <b>🐐 Powerful Facebook Messenger Bot built for fun, utility, and automation.</b><br/>
-  <i>Remodified, optimized, and maintained by the community.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-v22.+-green?logo=node.js" alt="Node.js Version">
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
-  <img src="https://img.shields.io/github/stars/Azad💥-obito/GoatBot?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/badge/Messenger-Bot-blue?logo=messenger" alt="Messenger Bot">
-</p>
-
-# Nezuko support gc - https://m.me/j/AbZvHioA_xvfjz_Q/
----
-
-## 🌟 Features
-
-> 💎 **Modular command system**  
-> 🔥 **Event handling & database sync**  
-> 🌐 **Multi-language support (English & Bengali)**  
-> 🛡️ **Admin/owner role permissions**  
-> ⏱️ **Cooldowns & error handling**  
-> 🖥️ **Customizable dashboard support**  
-> 🎯 **Fun, utility, media, and system commands**
-
----
-
-## 🧠 Overview
-
-> 🐐 **Goat Bot V2** is a multifunctional Messenger bot designed for group chats and page inbox automation.  
-> 🚀 It is **modular, async/await ready, permission-aware, and dashboard-friendly**.  
-
----
-
-## 📥 Installation
-
-> 1️⃣ **Clone the repository**:  
-```bash
-git clone https://github.com/syndicate-goat-bot-azad/Goat_bot_v2.git
-cd Goat_bot_v2
-
-```
----
-
-## 🧠 Overview
-
-**Goat Bot** is a multifunctional Messenger bot designed for group chats and page inbox automation.  
-It supports modular command loading, event handling, dashboards, and database syncing.
+[![Join Nezuko Support GC](https://img.shields.io/badge/Messenger-Join-blue?style=for-the-badge&logo=facebook-messenger&logoColor=white)](https://m.me/j/AbZvHioA_xvfjz_Q/)
 
 ### 📬 Connect with Me
 - 📧 **Email:** [yourmail@example.com](mailto:yourazad@example.com)  
 - 💬 **Facebook:** [Azad on Facebook](https://www.facebook.com/profile.php?id=61578365162382)  
 - 🧠 **Discord:** `azad09788`
----
 
-## 🛠️ Command Configuration Structure
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
+<!-- Animated Subtitle th Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+Goat+Bot+V2!;🤖+Messenger+Bot+by+Azad;💫+Powered+by+Nezuko+Chat+Bot;🎯+Modular+%26+Modern+Design" alt="Typing SVG" style="box-shadow: 0 0 25px rgba(255,255,255,0.4); border-radius: 14px;" />
+</p>
+
+<!-- Animated Badges -->
+<p align="center">
+  <a href="https://nodejs.org/dist/v16.20.0">
+    <img src="https://img.shields.io/badge/Node.js-16.x-brightgreen.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Support">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/syndicate-goat-bot-azad/Goat_bot_v2.svg?style=for-the-badge&label=Size&color=blue&logo=github" alt="Repo Size">
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Version&prefix=v&query=%24.version&url=https://github.com/syndicate-goat-bot-azad/Goat_bot_v2/raw/main/package.json&style=for-the-badge&logo=semver" alt="Version">
+  <img src="https://visitor-badge.laobi.icu/badge?style=for-the-badge&page_id=syndicate-goat-bot-azad.Goat_bot_v2&color=blueviolet" alt="Visitors">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License">
+</p>
 
-Each command file follows a simple and flexible structure:
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```javascript
-module.exports = {
-  config: {
-    name: "commandName",
-    version: "1.0",
-    author: "Azad",
-    countDown: 5,
-    role: 0,
-    shortDescription: "Short command description",
-    longDescription: "Detailed description of what the command does",
-    category: "Utility", // Example: Fun, Media, System, etc.
-    guide: {
-      en: "{pn} [arguments]",
-    }
-  },
+<!-- ngôn ngữ đã học -->
+**Learned Languages and Frameworks:**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="background: #000;"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"></code>
 
-  onStart: async function({ api, event, args }) {
-    api.sendMessage("Hello from Goat Bot!", event.threadID);
-  }
-};
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
-⚡ Features
+</div>
 
-Modular command system for easy expansion
+## 🌟 Features
 
-Automatic event handling in group chats
+💎 **Modular command system**  
+🔥 **Event handling & database sync**  
+🌐 **Multi-language support (English & Bengali)**  
+🛡️ **Admin/owner role permissions**  
+⏱️ **Cooldowns & error handling**  
+🖥️ **Customizable dashboard support**  
+🎯 **Fun, utility, media, and system commands**
+ 
 
-Page inbox automation
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Real-time database syncing
+## 📑 Table of Contents
 
-Fun, utility, and moderation commands
+- [📝 Note](#-note)
+- [🚧 Requirements](#-requirements)
+- [💡 How It Works](#-how-it-works)
+- [🌐 Supported Languages](#-supported-languages)
+- [❌ Warning: Official Source Only](#-warning-official-source-only)
+- [📸 Screenshots](#-screenshots)
+- [✨ Copyright](#-copyright)
+- [📜 License](#-license)
 
-Dashboard support for easier bot management
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📝 Note
 
+<div align="center">
+⚠️ **Important Security Information** ⚠️
+</div>
 
----
+- This is a **Messenger chat bot** using a **personal account** with an [unofficial API](https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md)
+- Using this bot **may result** in your Facebook account being locked due to spam or other violations
+- 🎭 **Recommendation:** Use a clone/throwaway account that you're willing to lose
+- ⚠️ **Disclaimer:** I am **NOT responsible** for any issues arising from using this bot
 
-📜 Supported Commands & Modules
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Command Name	Category	Description
+<p align="center">
+  <a href="https://github.com/syndicate-goat-bot-azad/Goat_bot_v2">
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=syndicate-goat-bot-azad&repo=Goat_bot_v2&theme=github_dark" 
+         style="margin-top: 10px;" />
+  </a>
+</p>
 
-help	Utility	Shows all available commands
-ping	Fun	Checks bot responsiveness
-kick	Moderation	Removes a user from the group
-meme	Fun	Sends a random meme
-weather	Utility	Shows weather info for a city
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📶 Github Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syndicate-goat-bot-azad">
+  <br>
+  <br>
+  
+  <a href="https://github.com/syndicate-goat-bot-azad">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syndicate-goat-bot-azad&theme=blue-green" style="margin-top: 10px;"/>
+  </a>
+  <br>
+  <br>
+  
+  <a href="https://github.com/syndicate-goat-bot-azad">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=syndicate-goat-bot-azad&show_icons=true&theme=github_dark&line_height=27" alt="Azad's github stats" style="margin-top: 10px;"/>
+  </a>
+  <br>
+  <br>
 
-> Add more commands in the commands/ folder following the standard structure.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🚧 Requirements
 
+<div align="center">
 
+| Requirement | Details |
+|------------|---------|
+| 🟢 **Node.js** | Version 16.x ([Download](https://nodejs.org/dist/v16.20.0) \| [Home](https://nodejs.org/en/download/) \| [Other Versions](https://nodejs.org/en/download/releases/)) |
+| 💻 **Knowledge** | JavaScript, Node.js, Unofficial Facebook API |
+| ✅ **Google Credentials** | **NOT REQUIRED** - No setup needed! |
 
----
+</div>
 
-🏗️ Bot Architecture
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Node.js v19+ – Main runtime
+## 💡 How It Works
 
-Messenger API / fb-chat-api – Handles Messenger connections
+<details>
+<summary><b>Click to expand architecture overview</b></summary>
 
-Modular command system – Each command is a separate file
+### 🔄 Event Flow
 
-Database support – Optional (e.g., SQLite, MongoDB)
+The bot uses the **unofficial Facebook API** to send and receive messages. When a new event occurs (message, reaction, user join/leave, etc.), the bot processes it through handlers:
 
-Event handlers – Listen to messages, reactions, and thread updates
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+#### **🎯 onStart Handler**
+1. ✅ Checks if user called a command
+2. 🚫 Validates user ban status and admin-only mode
+3. 🔐 Verifies user permissions
+4. ⏱️ Checks command cooldown
+5. ▶️ Executes command and logs to console
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+#### **💬 onChat Handler**
+- Triggered when user sends a message
+- Checks permissions
+- Executes command or async function
+- Logs activity
 
-🚀 Getting Started
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-1️⃣ Clone the Repository
+#### **🎭 onFirstChat Handler**
+- Runs on first message from chat since bot started
+- Works like `onChat`
 
-git clone https://github.com/syndicate-goat-bot-azad/GoatBot.git
-cd GoatBot
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-2️⃣ Install Dependencies
+#### **😀 onReaction Handler**
+- Triggered when user reacts to specific messages
+- Uses `GoatBot.onReaction` map system
+- Auto-adds delete method
+- Permission-checked execution
 
-npm install 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+#### **↩️ onReply Handler**
+- Activated when user replies to tracked messages
+- Uses `GoatBot.onReply` map system
+- Auto-cleanup available
+- Permission-validated
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-3️⃣ Run the Bot
+#### **🎪 onEvent Handler**
+- Handles Facebook events (join, leave, admin changes)
+- Loops through registered event commands
+- Executes callbacks
 
-node index.js
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-⚡ Optional: Auto-Restart!
+#### **🎬 handlerEvent**
+- Processes all event-type activities
+- Runs commands from `scripts/events` folder
+- Async function support
 
+</details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🤝 Contributing
+## 🌐 Supported Languages
 
-Contributions are welcome!
+The bot currently supports **2 languages**:
 
-Reporting bugs
+- ✅ **English** (`en`)
+- ✅ **Vietnamese** (`vi`)
 
-Suggesting new commands
+### 🔧 Customization
 
-Submitting pull requests
+- Change language in `config.json`
+- Customize translations in:
+  - `languages/`
+  - `languages/cmds/`
+  - `languages/events/`
 
-Improving documentation
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## ❌ Warning: Official Source Only
 
-GitHub workflow:
+<div align="center">
 
-1. Fork the repository
+### ⚠️ **DANGER: Fake/Unofficial Sources** ⚠️
 
+</div>
 
-2. Create a feature branch (git checkout -b feature-name)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+- ❌ Unknown source code can contain **viruses, malware, and exploits**
+- ❌ May lead to **hacked accounts**
+- ✅ **Official Source Only:** [GitHub](https://github.com/syndicate-goat-bot-azad/Goat_bot_v2)
+- 🚫 Using unofficial sources **violates policy** and can get you banned
 
-3. Commit changes (git commit -m "Add feature")
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## ✨ Copyright
 
-4. Push branch (git push origin feature-name)
+<div align="center">
 
-
-5. Open a pull request
-
-
-
-
----
-
-❓ FAQ / Troubleshooting
-
-Issue	Solution
-
-Bot not connecting	Check SESSION_KEY and network connectivity
-Command not working	Ensure command file is in commands/ folder and config is correct
-Bot crashes on start	Make sure Node.js v19+ is installed and dependencies are updated
-
-
-
----
+**Created by 💋 Azad**
 
 🖼️ owner!
 
@@ -225,14 +257,31 @@ Bot crashes on start	Make sure Node.js v19+ is installed and dependencies are up
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+Using+nezuko+fork!+😊;Don't+forget+to+⭐+the+repo;Nezuko+Update+by+Azad!+🚀;Built+with+❤️+by+NTKhang+%26+Azad" alt="Thanks" />
 </p>
 
-🗺️ Roadmap / Planned Features
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[ ] Dashboard web panel
+</div>
 
-[ ] Custom user roles
+---
 
-[ ] More fun commands
+## 📜 License
 
-[ ] Auto-updates
+- MIT License
 
-)
+<div align="center">
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**Made by 💋 Azad**
+
+<p>
+  <img src="https://img.shields.io/github/stars/syndicate-goat-bot-azad/Goat_bot_v2?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/syndicate-goat-bot-azad/Goat_bot_v2?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/watchers/syndicate-goat-bot-azad/Goat_bot_v2?style=social" alt="Watchers">
+</p>
+
+**⭐ If you like this project, give it a star! ⭐**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
