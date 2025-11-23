@@ -7,7 +7,7 @@ module.exports = {
     name: "uptime",
     aliases: ["ping", "upt"],
     version: "3.8",
-    author: "Azad",//Author change korle tor marechudi 
+    author: "Azadx69x",//Author change korle tor marechudi 
     countDown: 5,
     role: 0,
     shortDescription: "Show bot uptime in image",
