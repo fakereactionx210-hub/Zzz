@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "say",
 	version: "1.6.9",
 	role: 0,
-	author: "♡ Nazrul ♡",
+	author: "♡ NaZrul ♡",
 	description: "Get Bangla Voice",
 	category: "media",
 	guide: {
