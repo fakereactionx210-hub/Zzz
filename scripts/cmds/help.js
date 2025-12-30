@@ -100,5 +100,4 @@ module.exports = {
 
     return message.reply(msg);
   }
-
- 
+};
