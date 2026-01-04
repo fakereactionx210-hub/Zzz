@@ -107,7 +107,7 @@ module.exports = {
         if (!text) return api.sendMessage(`❌ Please provide text to convert.\nUsage: font ${styleNum} <text>`, threadID, messageID);
 
         try {
-          const url = `https://azadx69x-x69x-top.vercel.app/api/fontstyle`;
+          const url = `https://azadx69x-all-apis-top.vercel.app/api/fontstyle`;
           const res = await axios.get(url, { params: { text, style: styleNum }, timeout: 10000 });
 
           if (res.data.success && res.data.output) {
@@ -158,4 +158,4 @@ function convertTextLocally(styleNum, text) {
   for (let i = 0; i < base.length; i++) map[base[i]] = preview[i] || base[i];
 
   return text.split('').map(c => map[c] || c).join('');
-        }
+}
