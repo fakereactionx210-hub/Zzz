@@ -110,20 +110,51 @@ module.exports = {
     }
   },
 
-  onStart: async function ({ message, event, usersData }) {
+  onStart: async function ({ message, event, usersData, args }) {
     try {
-      // Get mentions from event object
-      const mentions = event.mentions ? Object.keys(event.mentions) : [];
+      console.log("Event data:", JSON.stringify(event, null, 2));
+      console.log("Args:", args);
       
-      if (mentions.length === 0) {
-        return message.reply("❌ Please mention someone to start the game!");
+      // Check if there's a mention in the message
+      let mentionedUser = null;
+      
+      // Method 1: Check event.mentions
+      if (event.mentions && typeof event.mentions === 'object') {
+        const mentionKeys = Object.keys(event.mentions);
+        if (mentionKeys.length > 0) {
+          mentionedUser = mentionKeys[0];
+        }
+      }
+      
+      // Method 2: Check message text for @mention pattern
+      if (!mentionedUser && event.body) {
+        const mentionMatch = event.body.match(/@(\d+)/);
+        if (mentionMatch) {
+          mentionedUser = mentionMatch[1];
+        }
+      }
+      
+      // Method 3: Check args for user ID
+      if (!mentionedUser && args && args.length > 0) {
+        // Check if any arg looks like a user ID (all numbers)
+        for (const arg of args) {
+          if (/^\d+$/.test(arg)) {
+            mentionedUser = arg;
+            break;
+          }
+        }
+      }
+      
+      if (!mentionedUser) {
+        return message.reply("❌ Please mention someone to start the game!\nExample: /ttt @friend");
       }
 
       const playerX = event.senderID;
-      const playerO = mentions[0];
+      const playerO = mentionedUser;
 
+      // Get player names
       const playerXName = await usersData.getName(playerX);
-      const playerOName = await usersData.getName(playerO);
+      const playerOName = await usersData.getName(playerO) || "Player O";
 
       const gameId = event.threadID;
       
@@ -163,8 +194,10 @@ module.exports = {
           return message.reply("❌ Error creating game board.");
         }
         
+        const replyMessage = `🎮 Tic Tac Toe Started!\n\n${playerXName} (X) vs ${playerOName} (O)\n\nFirst turn: X (${playerXName})\n\nReply with numbers 1-9 to play:\n1 2 3\n4 5 6\n7 8 9`;
+        
         message.reply({
-          body: `🎮 Tic Tac Toe Started!\n\n${playerXName} (X) vs ${playerOName} (O)\n\nFirst turn: X (${playerXName})\nReply with numbers 1-9`,
+          body: replyMessage,
           attachment: fs.createReadStream(filePath)
         });
       });
@@ -200,12 +233,13 @@ module.exports = {
                      event.senderID === game.players.O ? "O" : null;
       
       if (!player) {
-        return;
+        return message.reply("❌ You are not a player in this game!");
       }
 
       // Check if it's player's turn
       if (game.turn !== player) {
-        return message.reply("⏳ It's not your turn!");
+        const currentPlayerName = game.names[game.turn];
+        return message.reply(`⏳ It's ${currentPlayerName}'s turn (${game.turn})!`);
       }
 
       const index = move - 1;
